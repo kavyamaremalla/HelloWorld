@@ -8,7 +8,5 @@ public class HelloWorld {
         System.out.println("Hello World");
     }
 
+    //added this line
 }
-
-//add, push, commit, pull.
-//init, fetch, merge , rebase, stash, upstream, downstream, .gitignore
