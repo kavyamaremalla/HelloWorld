@@ -8,8 +8,6 @@ public class HelloWorld {
         System.out.println("Hello World");
     }
 
-  //Somebody modified the code.
-
 }
 
 //add, push, commit, pull.
