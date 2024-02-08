@@ -1,7 +1,12 @@
-package  com.training.setup;
+package com.training.setup;
 
 public class HelloWorld {
 
-// add methods
 
+    public static void main(String[] args) {
+        System.out.println("Hello World");
+    }
 }
+
+//add, push, commit, pull.
+//init, fetch, merge , rebase, stash, upstream, downstream, .gitignore
